@@ -1,6 +1,6 @@
 # SakuraFrp-Install
 Sakura Frp 定制版服务端安装程序
-作者：sakura
+作者：Akkariin Meiko
 支持的操作系统：CentOS 6/7、Ubuntu 14/16/18、Debian 8/9
 ### 一键安装
 ```bash
